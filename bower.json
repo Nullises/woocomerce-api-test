@@ -1,0 +1,19 @@
+{
+  "version": "0.0.1",
+  "name": "woocommerce-api-test",
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "angular": "^1.6.6",
+    "angular-animate": "^1.6.6",
+    "angular-aria": "^1.6.6",
+    "angular-material": "^1.1.4",
+    "angular-material-data-table": "^0.10.10",
+    "angular-messages": "^1.6.6",
+    "angular-ui-router": "^1.0.3",
+    "angular-advanced-searchbox": "^3.0.0",
+    "angular-material-data-table": "^0.10.10",
+    "angular-local-storage": "^0.7.1",
+    "ngstorage": "^0.3.11"
+  },
+  "devDependencies": {}
+}
