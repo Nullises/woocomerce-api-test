@@ -27,9 +27,9 @@
     <meta name="theme-color" content="#ffffff">
     <!--SENSACIONAL FAVICON-->
   </head>
-  <body>
+  <body ng-app="WooCommerceSensacional">
 
-    <div layout="column">
+    <div layout="column" ng-controller="WooCommerceSensacionalController">
       <md-toolbar class="md-warn" layout-align="center center">
         <h2 class="md-flex text-center">WooCommerce API Sensacional</h2>
       </md-toolbar>
@@ -50,5 +50,7 @@
     <!--ANGULAR MATERIAL-->
     <script src="angular-material/angular-material.min.js"></script>
     <!--ASSETS-->
+    <script src="assets/js/app.module.js"></script>
+    <script src="assets/js/app.controller.js"></script>
   </body>
 </html>
